@@ -1,7 +1,7 @@
 name = "SossExamples"
 uuid = "0108b968-3044-4f58-acc0-30cb1d2dc5bf"
 authors = ["Chad Scherrer"]
-version = "0.1.0"
+version = "0.1.0-DEV"
 
 [compat]
 julia = "1.4"

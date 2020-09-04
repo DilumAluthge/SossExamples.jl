@@ -4,9 +4,6 @@ CurrentModule = SossExamples
 
 # SossExamples
 
-```@index
-```
-
-```@autodocs
-Modules = [SossExamples]
-```
+This repository contains additional examples for the 
+[Soss.jl](https://github.com/cscherrer/Soss.jl)
+package.
